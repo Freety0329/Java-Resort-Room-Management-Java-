@@ -1,0 +1,7 @@
+staffID,icno,contno,name,email,position,password
+1,123456789123,0124747856,a,aa@mail.com,Staff,a
+2,741456789852,0159696987,b,b@mail.com,Staff,b
+3,125478521478,0147788552,d,c@mail.com,Staff,d
+4,012365412541,0123654123,Geogh,G@mail.com,Staff,Geogh
+5,020405050249,0124455963,Emily,emaily@mail.com,Manager,Emily
+6,122222222222,2222222222,admin,@.com,Staff,admin

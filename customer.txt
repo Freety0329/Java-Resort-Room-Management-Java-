@@ -1,0 +1,2 @@
+customerID,Name,Icno,Passno,Contno,Email,Bankcardno1,Dio,020325010329,123ab,0123456789,Roy@mail.com,001234567894
+1,Dio,020325010329,123ab,0123456789,Roy@mail.com,001234567894
